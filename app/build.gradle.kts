@@ -57,7 +57,7 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 
-    
+    implementation("io.github.oleksandrbalan:pagecurl:1.5.1")
 
 
 }
