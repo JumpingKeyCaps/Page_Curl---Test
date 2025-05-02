@@ -1,8 +1,8 @@
 # CurlView Test
 
-Mini Android test of the **CurlView** library implementation developed by **Oleksandr Balan** https://github.com/oleksandrbalan/pagecurl.
+Mini Android test of the **CurlView** component implementation from the **PageCurl** library developed by **Oleksandr Balan** https://github.com/oleksandrbalan/pagecurl.
 
-Developed in Kotlin with **Jetpack Compose**, this project tests the integration of the **CurlView** library into an Android app, to avoid direct manipulation of OpenGL via an **AndroidView**.
+Developed in Kotlin with **Jetpack Compose**, this project tests the integration of the **PageCurl** library into an Android app, to avoid direct manipulation of OpenGL via an **AndroidView**.
 
 ---
 
@@ -10,7 +10,7 @@ Developed in Kotlin with **Jetpack Compose**, this project tests the integration
 ## 🚀 Project Overview
 
 **Context**:  
-The goal is to test the integration of the **CurlView** library developed by **Oleksandr Balan**. This library allows the creation of page-turning animations in an Android app while being **Compose-friendly**, which eliminates the need to manipulate OpenGL directly.
+The goal is to test the integration of the **PageCurl** library developed by **Oleksandr Balan**. This library allows the creation of page-turning animations in an Android app while being **Compose-friendly**, which eliminates the need to manipulate OpenGL directly.
 
 **Mission**:  
 - Test the basic implementation of **CurlView**.
@@ -33,7 +33,7 @@ The goal is to test the integration of the **CurlView** library developed by **O
 
 | Step | Objectives | Results |
 | :--- | :--- | :--- |
-| **Project Initialization** | Set up the CurlView library in a Compose project | Functional project structure |
+| **Project Initialization** | Set up the PageCurl library in a Compose project | Functional project structure |
 | **Basic CurlView Test** | Simple implementation of page-turning effect | Smooth and stable animation |
 | **Exploring Version 1.5.1** | Implement new features of the library | Utilized new options and performance tested |
 | **Manga Demo** | Apply the library to the first pages of a manga to test performance with large images | Functional demo with tests on **.jpg** images |
@@ -45,7 +45,7 @@ The goal is to test the integration of the **CurlView** library developed by **O
 
 - **Language**: Kotlin
 - **UI**: Jetpack Compose
-- **Main Library**: CurlView (https://github.com/oleksandrbalan/pagecurl)
+- **Main Library**: PageCurl (https://github.com/oleksandrbalan/pagecurl)
 - **Performance Testing**: No specific performance testing conducted, but fluency was checked with larger images
 - **IDE**: Android Studio
 
@@ -61,7 +61,7 @@ The goal is to test the integration of the **CurlView** library developed by **O
 
 ## 🎯 Final Result
 
-✅ **Test of the CurlView library** successful with smooth integration into a Compose project.  
+✅ **Test of the PageCurl library** successful with smooth integration into a Compose project.  
 ✅ **New features of version 1.5.1** tested and integrated successfully.  
 ✅ **Manga demo** with performance tested, allowing evaluation of page-turning animations with larger **.jpg** images.  
 ✅ **No direct OpenGL manipulation** required thanks to the Compose-friendly architecture of the library.
@@ -70,5 +70,5 @@ The goal is to test the integration of the **CurlView** library developed by **O
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-03DAC5?logo=android&logoColor=white)
-![CurlView](https://img.shields.io/badge/CurlView-000000?logo=github&logoColor=white)
+![PageCurl](https://img.shields.io/badge/PageCurl-000000?logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
