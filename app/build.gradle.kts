@@ -59,5 +59,7 @@ dependencies {
 
     implementation("io.github.oleksandrbalan:pagecurl:1.5.1")
 
+    implementation("io.coil-kt:coil-compose:2.5.0")
+
 
 }
