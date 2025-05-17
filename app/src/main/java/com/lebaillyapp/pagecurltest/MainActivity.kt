@@ -9,6 +9,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
 import androidx.compose.ui.Modifier
+import com.lebaillyapp.pagecurltest.composition.AsyncImagePageCurlScreen
 import com.lebaillyapp.pagecurltest.composition.ImagePageCurlScreen
 import com.lebaillyapp.pagecurltest.ui.theme.PageCurlTestTheme
 
@@ -22,7 +23,8 @@ class MainActivity : ComponentActivity() {
                     Box(modifier = Modifier.padding(innerPadding)){
                        // PageCurlScreen()
                        // EnhancedPageCurlScreen()
-                        ImagePageCurlScreen()
+                      //  ImagePageCurlScreen()
+                        AsyncImagePageCurlScreen()
 
                     }
                 }
