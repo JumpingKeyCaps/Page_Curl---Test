@@ -1,5 +1,10 @@
 # CurlView Test
 
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-03DAC5?logo=android&logoColor=white)
+![PageCurl](https://img.shields.io/badge/PageCurl-000000?logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
+
 Mini Android test of the **CurlView** component implementation from the **PageCurl** library developed by **Oleksandr Balan** https://github.com/oleksandrbalan/pagecurl.
 
 Developed in Kotlin with **Jetpack Compose**, this project tests the integration of the **PageCurl** library into an Android app, to avoid direct manipulation of OpenGL via an **AndroidView**.
@@ -68,7 +73,4 @@ The goal is to test the integration of the **PageCurl** library developed by **O
 
 ---
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-03DAC5?logo=android&logoColor=white)
-![PageCurl](https://img.shields.io/badge/PageCurl-000000?logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
+
